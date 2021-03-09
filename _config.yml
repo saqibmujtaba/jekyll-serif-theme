@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'VitCamp | aim high'
+title: 'aim high'
 
 google_analytics_id: ""
 homepage:
@@ -17,7 +17,6 @@ seo:
   meta_og_title: "VitCamp"
   meta_og_type: "website"
   meta_og_url: "https://vitcamp.com"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
   meta_og_description: "IT Service and Outsourcing"
   meta_twitter_card: "summary"
   meta_twitter_site: "@vitcamp"
