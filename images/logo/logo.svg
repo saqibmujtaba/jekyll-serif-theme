@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="135px" height="36px" viewBox="-0.2 7.6 135 36" enable-background="new -0.2 7.6 135 36"
+	 xml:space="preserve">
+<defs>
+</defs>
+<path fill="#E4E4E4" d="M131.3,8.4c3.1,0,3.1,0,3.1,0.9l-0.1,33.1c0,0.9,0,0.9-3.1,0.9L3.1,43C0,43,0,43,0,42.1L0.1,9.1
+	c0-0.8,0-0.9,3.1-0.9L131.3,8.4z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-187.9258" y1="-18.2583" x2="-156.1807" y2="-18.2583" gradientTransform="matrix(1.0661 1.470000e-002 1.470000e-002 1.137 204.222 46.936)">
+	<stop  offset="0" style="stop-color:#442F8F"/>
+	<stop  offset="0.6593" style="stop-color:#5072B6"/>
+	<stop  offset="0.8571" style="stop-color:#282A73"/>
+	<a:midPointStop  offset="0" style="stop-color:#442F8F"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#442F8F"/>
+	<a:midPointStop  offset="0.6593" style="stop-color:#5072B6"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#5072B6"/>
+	<a:midPointStop  offset="0.8571" style="stop-color:#282A73"/>
+</linearGradient>
+<polygon fill="url(#SVGID_1_)" points="31.4,34.3 14.5,37.7 3.7,27 9.6,13 26.5,9.6 37.4,20.3 "/>
+<text transform="matrix(1 0 0 1 9.6201 35.249)" fill="#454043" font-family="'MyriadPro-Bold'" font-size="41.7714">v</text>
+<text transform="matrix(1 0 0 1 9.3115 34.9629)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="41.7714">v</text>
+<path fill="#262261" d="M47.2,33.1l-5.1-15.9h3.9l1.9,6.7c0.5,1.9,1,3.7,1.4,5.7h0.1c0.4-1.9,0.9-3.8,1.4-5.6l2-6.8h3.8l-5.4,15.9
+	H47.2z"/>
+<path fill="#262261" d="M61.4,18.3c0,1-0.8,1.8-1.9,1.8c-1.1,0-1.9-0.8-1.9-1.8c0-1,0.7-1.8,1.9-1.8C60.7,16.5,61.4,17.3,61.4,18.3z
+	 M57.7,33.1V21.5h3.6v11.5H57.7z"/>
+<path fill="#262261" d="M68.2,18.4v3.1h2.6v2.6h-2.6v4.2c0,1.4,0.3,2,1.4,2c0.5,0,0.7,0,1.1-0.1l0,2.7c-0.5,0.2-1.3,0.3-2.3,0.3
+	c-1.2,0-2.1-0.4-2.7-1c-0.7-0.7-1-1.8-1-3.4v-4.7h-1.5v-2.6h1.5v-2.2L68.2,18.4z"/>
+<path fill="#262261" d="M84.6,32.6c-0.7,0.3-2.1,0.7-4.1,0.7c-5.5,0-8.3-3.4-8.3-8c0-5.4,3.9-8.4,8.7-8.4c1.9,0,3.3,0.4,3.9,0.7
+	l-0.7,2.9c-0.7-0.3-1.7-0.6-3-0.6c-2.9,0-5.1,1.7-5.1,5.3c0,3.2,1.9,5.2,5.1,5.2c1.1,0,2.3-0.2,3-0.5L84.6,32.6z"/>
+<path fill="#262261" d="M96.3,30.3c0,1.1,0,2.2,0.2,2.8h-3.2L93,31.9h-0.1c-0.8,0.9-1.9,1.4-3.3,1.4c-2.3,0-3.7-1.7-3.7-3.5
+	c0-3,2.7-4.4,6.8-4.4v-0.2c0-0.6-0.3-1.5-2.1-1.5c-1.2,0-2.4,0.4-3.2,0.9l-0.7-2.3c0.8-0.4,2.4-1,4.5-1c3.8,0,5.1,2.3,5.1,5V30.3z
+	 M92.8,27.6c-1.9,0-3.4,0.4-3.4,1.8c0,0.9,0.6,1.4,1.4,1.4c0.9,0,1.6-0.6,1.9-1.3c0-0.2,0.1-0.4,0.1-0.6V27.6z"/>
+<path fill="#262261" d="M99.1,25.2c0-1.4,0-2.7-0.1-3.7h3l0.2,1.6h0.1c0.5-0.7,1.5-1.8,3.5-1.8c1.5,0,2.7,0.8,3.2,2h0
+	c0.4-0.6,0.9-1.1,1.5-1.4c0.6-0.4,1.3-0.6,2.2-0.6c2.2,0,3.9,1.6,3.9,5v6.8h-3.5v-6.3c0-1.7-0.5-2.6-1.7-2.6c-0.8,0-1.4,0.6-1.7,1.3
+	c-0.1,0.3-0.1,0.6-0.1,0.9v6.8h-3.5v-6.5c0-1.5-0.5-2.5-1.7-2.5c-0.9,0-1.5,0.7-1.7,1.3c-0.1,0.3-0.1,0.6-0.1,0.9v6.7h-3.5V25.2z"/>
+<path fill="#262261" d="M119.4,25.4c0-1.5,0-2.8-0.1-3.9h3.1l0.2,1.6h0c0.9-1.2,2.2-1.9,3.8-1.9c2.5,0,4.8,2.2,4.8,5.9
+	c0,4.2-2.7,6.2-5.2,6.2c-1.4,0-2.5-0.6-3-1.3h0v5.7h-3.6V25.4z M123,28.1c0,0.3,0,0.5,0.1,0.8c0.2,1,1.1,1.7,2.1,1.7
+	c1.6,0,2.5-1.3,2.5-3.3c0-1.8-0.8-3.2-2.4-3.2c-1,0-1.9,0.8-2.1,1.8c0,0.2-0.1,0.4-0.1,0.6V28.1z"/>
+<text transform="matrix(1 0 0 1 76.832 41.8643)" fill="#262261" font-family="'MyriadPro-Regular'" font-size="8.3237">IT Solutions</text>
+</svg>
