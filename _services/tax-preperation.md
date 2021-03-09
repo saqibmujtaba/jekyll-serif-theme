@@ -6,41 +6,42 @@ weight: 6
 layout: service
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+VitCamp IT consulting and custom software development company has been helping their clients put big data into efficient use by providing a full range of big data services: big data consulting, implementation, support, and big data managed analytics services.
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+![Analytics](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+# Big Data Consulting 
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+By rendering big data implementation and improvement consulting services, We helps with:
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+Designing a roadmap to leveraging big data potential.
+- Recommending on data quality management.
+- Designing big data solution’s architecture, implementation strategy, user adoption strategy, evolution strategy, etc.
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
+## Big Data Implementation
 
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
+VitCamp IT implements big data solutions with some or all of the following architecture components: a data lake, a data warehouse, ETL processes, OLAP cubes, reports, and dashboards. Additionally, We sets up data quality management and data security practices, trains, and applies machine learning models.
 
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
+## Big Data Support
 
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+With big data support services, We provide big data solution administration (updating software, adding new users, handling permissions), big data administration (data cleaning, backup, and recovery), a big data solution’s regular health checks and continuous monitoring to identify problems early and effectively troubleshoot them.
+
+## Big Data Managed Analytics Services
+
+With managed analytics services, We helps companies who want to quickly derive insights out of their big data and focus on their core business activities without developing and managing a full-scale big data solution.
+
+---
+
+## Enhancing Qualitative Characteristics
+
+### Verifiability
+Verifiability implies consensus between the different knowledgeable and independent users of information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+
+### Comparability
+Comparability is the uniform application of methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application across points in time within an entity.
+
+### Understandability
+Understandability means that reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
+Timeliness: Timeliness implies that information must be presented to the users before a decision is to be made.
+
+---
