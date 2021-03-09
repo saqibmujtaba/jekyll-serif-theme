@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Data Analytics
+    "description": "Free consultation for Data Analytics
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Data Modelling with Atlas and Archimate",
+    "description": "All members of our team are certified.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Service Compliance",
+    "description": "We stay up to date on the latest changes to IT industry.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
