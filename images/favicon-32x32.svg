@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="32px" height="32px" viewBox="-0.1 5.6 32 32" enable-background="new -0.1 5.6 32 32"
+	 xml:space="preserve">
+<defs>
+</defs>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-194.561" y1="-20.5029" x2="-164.6411" y2="-20.5029" gradientTransform="matrix(1.0661 1.470000e-002 1.470000e-002 1.137 207.6783 48.235)">
+	<stop  offset="0" style="stop-color:#442F8F"/>
+	<stop  offset="0.6593" style="stop-color:#5072B6"/>
+	<stop  offset="0.8571" style="stop-color:#282A73"/>
+	<a:midPointStop  offset="0" style="stop-color:#442F8F"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#442F8F"/>
+	<a:midPointStop  offset="0.6593" style="stop-color:#5072B6"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#5072B6"/>
+	<a:midPointStop  offset="0.8571" style="stop-color:#282A73"/>
+</linearGradient>
+<polygon fill="url(#SVGID_1_)" points="26.2,32.3 10.3,35.5 0,25.4 5.6,12.2 21.5,9.1 31.8,19.1 "/>
+<text transform="matrix(1 0 0 1 5.6255 33.2246)" fill="#454043" font-family="'MyriadPro-Bold'" font-size="39.3704">v</text>
+<text transform="matrix(1 0 0 1 5.3354 32.9531)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="39.3704">v</text>
+</svg>
