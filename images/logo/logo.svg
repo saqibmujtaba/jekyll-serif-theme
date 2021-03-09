@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="135px" height="36px" viewBox="-0.6 6.8 135 36" enable-background="new -0.6 6.8 135 36"
+	 xml:space="preserve">
+<defs>
+</defs>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-191.4048" y1="-17.2705" x2="-158.043" y2="-17.2705" gradientTransform="matrix(1.0661 1.470000e-002 1.470000e-002 1.137 204.2609 47.0565)">
+	<stop  offset="0" style="stop-color:#442F8F"/>
+	<stop  offset="0.6593" style="stop-color:#5072B6"/>
+	<stop  offset="0.8571" style="stop-color:#282A73"/>
+	<a:midPointStop  offset="0" style="stop-color:#442F8F"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#442F8F"/>
+	<a:midPointStop  offset="0.6593" style="stop-color:#5072B6"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#5072B6"/>
+	<a:midPointStop  offset="0.8571" style="stop-color:#282A73"/>
+</linearGradient>
+<polygon fill="url(#SVGID_1_)" points="29.2,36.1 11.4,39.6 0,28.4 6.3,13.6 24,10.1 35.5,21.3 "/>
+<text transform="matrix(1 0 0 1 6.2705 37.0444)" fill="#454043" font-family="'MyriadPro-Bold'" font-size="43.8987">v</text>
+<text transform="matrix(1 0 0 1 5.9463 36.7437)" fill="#FFFFFF" font-family="'MyriadPro-Bold'" font-size="43.8987">v</text>
+<path fill="#262261" d="M45.8,34.8l-5.4-16.7h4.1l2,7.1c0.6,2,1.1,3.9,1.5,6h0.1c0.4-2,0.9-4,1.5-5.9l2.1-7.1h4l-5.6,16.7H45.8z"/>
+<path fill="#262261" d="M60.7,19.3c0,1-0.8,1.9-2,1.9c-1.2,0-2-0.8-2-1.9c0-1.1,0.8-1.9,2-1.9C59.9,17.4,60.7,18.2,60.7,19.3z
+	 M56.8,34.8V22.6h3.8v12.1H56.8z"/>
+<path fill="#262261" d="M67.8,19.3v3.3h2.7v2.8h-2.7v4.4c0,1.5,0.3,2.1,1.5,2.1c0.5,0,0.7,0,1.1-0.1l0,2.9C70,34.9,69.1,35,68,35
+	c-1.2,0-2.2-0.4-2.8-1.1c-0.7-0.7-1-1.9-1-3.6v-5h-1.6v-2.8h1.6v-2.3L67.8,19.3z"/>
+<path fill="#262261" d="M85.1,34.3c-0.7,0.3-2.3,0.7-4.3,0.7c-5.8,0-8.8-3.6-8.8-8.4c0-5.7,4.1-8.9,9.1-8.9c2,0,3.4,0.4,4.1,0.7
+	l-0.8,3c-0.8-0.3-1.8-0.6-3.2-0.6c-3,0-5.3,1.8-5.3,5.5c0,3.3,2,5.5,5.4,5.5c1.1,0,2.4-0.2,3.2-0.5L85.1,34.3z"/>
+<path fill="#262261" d="M97.4,31.8c0,1.2,0,2.3,0.2,3h-3.4l-0.2-1.2h-0.1c-0.8,1-2,1.5-3.5,1.5c-2.5,0-3.9-1.8-3.9-3.7
+	c0-3.1,2.8-4.7,7.1-4.6v-0.2c0-0.6-0.3-1.6-2.2-1.6c-1.2,0-2.6,0.4-3.3,0.9l-0.7-2.4c0.8-0.5,2.5-1.1,4.7-1.1c4,0,5.3,2.4,5.3,5.2
+	V31.8z M93.7,29c-2,0-3.5,0.4-3.5,1.9c0,1,0.6,1.4,1.5,1.4c0.9,0,1.7-0.6,2-1.4c0.1-0.2,0.1-0.4,0.1-0.6V29z"/>
+<path fill="#262261" d="M100.3,26.5c0-1.5,0-2.8-0.1-3.9h3.2l0.2,1.6h0.1c0.5-0.8,1.6-1.9,3.7-1.9c1.6,0,2.8,0.8,3.3,2.1h0.1
+	c0.4-0.6,1-1.1,1.6-1.5c0.7-0.4,1.4-0.6,2.3-0.6c2.3,0,4.1,1.6,4.1,5.3v7.1H115v-6.6c0-1.8-0.6-2.8-1.8-2.8c-0.9,0-1.5,0.6-1.7,1.3
+	c-0.1,0.3-0.1,0.7-0.1,1v7.1h-3.7V28c0-1.5-0.5-2.6-1.7-2.6c-1,0-1.5,0.7-1.8,1.4c-0.1,0.3-0.2,0.6-0.2,0.9v7.1h-3.7V26.5z"/>
+<path fill="#262261" d="M121.7,26.7c0-1.6,0-3-0.1-4.1h3.3l0.2,1.7h0c0.9-1.3,2.3-2,4-2c2.7,0,5,2.3,5,6.2c0,4.4-2.8,6.5-5.5,6.5
+	c-1.5,0-2.6-0.6-3.1-1.4h-0.1v6h-3.8V26.7z M125.4,29.6c0,0.3,0,0.6,0.1,0.8c0.2,1,1.1,1.8,2.2,1.8c1.6,0,2.6-1.4,2.6-3.4
+	c0-1.9-0.9-3.4-2.6-3.4c-1.1,0-2,0.8-2.3,1.9c0,0.2-0.1,0.4-0.1,0.7V29.6z"/>
+</svg>
