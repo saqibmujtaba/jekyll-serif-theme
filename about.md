@@ -5,33 +5,18 @@ layout: page
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+We believe that data is meant to serve the human spirit, not rule it. Our mission is to revolutionize big data by making it simple. We are a funded, fast growing technology start-up located in Srinagar. Our founders are successful entrepreneurs who have been in the business of making data work for businesses and consumers.
 
-## Ne verba patulosque numen vix libet
+## Analytics of the Future
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+We are providing high-end business analytics leveraging latest technologies like cloud, open source etc., supplemented by the propriety automation and platform capabilities. [contact](#contact) connect now, yes?
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+we believe that there was always a simpler way. We set out to help companies find it. In the years since, technology has continued to evolve at an incredible pace. Technology now touches every facet of people’s daily lives and we’re happy to be right in the middle of the transformation that is taking place.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
 
-## Postquam tamen
+## An objective of providing honest, holistic and sustainable solutions.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Our unique interdisciplinary approach and cross-industry learning drive innovation in solving high-impact business problems across marketing, risk and supply chain.
 
 - Parens est studiisque interea
 - Pro istis mediis carnes iste nec imperat
@@ -40,13 +25,4 @@ licet! Inserui quamvis Clymeni.
 - Ambo videtque gerat aquae ferens vagina
 - Adde leviter faciam tetigisse regunt concava in
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
