@@ -1,82 +1,47 @@
 ---
-title: "Accounting"
-date: 2018-11-18T12:33:46+10:00
+title: "Big Data Infrastructure"
+date: 2021-03-21T12:33:46+10:00
 featured: true
 weight: 1
 layout: service
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+VitCamp IT consulting and custom software development company has been helping their clients put big data into efficient use by providing a full range of big data services: big data consulting, implementation, support, and big data managed analytics services.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Analytics](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives 
+# Big Data Consulting 
 
-Financial accounting and financial reporting are often used as synonyms.
+By rendering big data implementation and improvement consulting services, We helps with:
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Designing a roadmap to leveraging big data potential.
+- Recommending on data quality management.
+- Designing big data solution’s architecture, implementation strategy, user adoption strategy, evolution strategy, etc.
 
-## Relevance
+## Big Data Implementation
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+VitCamp IT implements big data solutions with some or all of the following architecture components: a data lake, a data warehouse, ETL processes, OLAP cubes, reports, and dashboards. Additionally, We sets up data quality management and data security practices, trains, and applies machine learning models.
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+## Big Data Support
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+With big data support services, We provide big data solution administration (updating software, adding new users, handling permissions), big data administration (data cleaning, backup, and recovery), a big data solution’s regular health checks and continuous monitoring to identify problems early and effectively troubleshoot them.
 
-## Faithful Representation
+## Big Data Managed Analytics Services
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+With managed analytics services, We helps companies who want to quickly derive insights out of their big data and focus on their core business activities without developing and managing a full-scale big data solution.
+
+---
 
 ## Enhancing Qualitative Characteristics
 
 ### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+Verifiability implies consensus between the different knowledgeable and independent users of information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
 
 ### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+Comparability is the uniform application of methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application across points in time within an entity.
 
 ### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+Understandability means that reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
+Timeliness: Timeliness implies that information must be presented to the users before a decision is to be made.
 
 ---
-
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
-
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
