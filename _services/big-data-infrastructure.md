@@ -2,7 +2,7 @@
 title: Big Data Infrastructure
 date: 2021-03-21T12:33:46+10:00
 featured: true
-weight: 1
+weight: 8
 layout: service
 ---
 
