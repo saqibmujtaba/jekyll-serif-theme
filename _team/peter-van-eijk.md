@@ -10,4 +10,5 @@ weight: 1
 layout: team
 ---
 
-Chief Data Scientist
+Peter has more than 20 years of experience in Data Analytics.
+
