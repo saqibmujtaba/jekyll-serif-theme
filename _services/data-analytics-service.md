@@ -1,6 +1,6 @@
 ---
-title: Data Analytics Service
-featured=true
+title: Data Analytics Services
+featured:true
 layout:service 
 ---
 
