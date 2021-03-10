@@ -6,7 +6,7 @@ weight: 7
 layout: service
 ---
 
-VitCamp IT consulting and custom software development company has been helping their clients put big data into efficient use by providing a full range of big data services: big data consulting, implementation, support, and big data managed analytics services.
+Helping clients put big data into efficient use by providing a full range of big data services: big data consulting, implementation, support, and big data managed analytics services.
 
 ![Analytics](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
