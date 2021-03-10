@@ -1,7 +1,8 @@
 ---
 title: Big Data Infrastructure
-featured:true
-layout: service
+date: 2018-11-28T15:15:34+10:00
+featured: true
+weight: 7
 ---
 
 VitCamp IT consulting and custom software development company has been helping their clients put big data into efficient use by providing a full range of big data services: big data consulting, implementation, support, and big data managed analytics services.
