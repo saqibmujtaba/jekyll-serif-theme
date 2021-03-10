@@ -1,7 +1,7 @@
 ---
 title: Data Analytics Services
-featured:true
-layout:service 
+featured: true
+layout: service 
 ---
 
 
